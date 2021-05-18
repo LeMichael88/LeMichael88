@@ -1,4 +1,20 @@
-### Hi there 👋
+## 👋 Hi there! I'm Michael Le. 👋
+
+### 📚 Who am I?
+I'm a software developer currently studying **Computer Science at the University of Waterloo.** I'm interested in fullstack development and learning as much as I can. In my free time, I enjoy working on cool projects and solving programming problems.
+
+### 🔨 Currently, I'm ...
+- On a study term and looking for Fall 2021 and Summer 2022 internships
+- Working on some interesting side projects!
+
+### 🐰 I previously worked as ...
+- Software Developer at [Newtopia](https://www.newtopia.com/ "Newtopia"), working on backend APIs and React Native mobile app
+- Salesforce Engineer at [Manulife](https://www.manulife.ca/personal.html "Manulife"), working on internal tools
+
+### 📫 How to reach me:
+[Email](mailto:m42le@uwaterloo.ca "Email") | [Website](https://lemichael.xyz "Personal Website") | [LinkedIn](https://www.linkedin.com/in/lemichael88/ "LinkedIn") | [Devpost](https://devpost.com/LeMichael88 "Devpost")
+
+![](https://komarev.com/ghpvc/?username=LeMichael88&label=Profile+Views&color=red)
 
 <!--
 **LeMichael88/LeMichael88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
