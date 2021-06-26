@@ -14,6 +14,8 @@ I'm a software developer currently studying **Computer Science at the University
 ### 📫 How to reach me:
 [Email](mailto:m42le@uwaterloo.ca "Email") | [Website](https://lemichael.xyz "Personal Website") | [LinkedIn](https://www.linkedin.com/in/lemichael88/ "LinkedIn") | [Devpost](https://devpost.com/LeMichael88 "Devpost")
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeMichael88&show_icons=true&locale=en" alt="LeMichael88" /></p>
+
 ![](https://komarev.com/ghpvc/?username=LeMichael88&label=Profile+Views&color=red)
 
 <!--
