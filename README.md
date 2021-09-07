@@ -4,11 +4,11 @@
 I'm a software developer currently studying **Computer Science at the University of Waterloo.** I'm interested in fullstack development and learning as much as I can. In my free time, I enjoy working on cool projects and solving programming problems.
 
 ### 🔨 Currently, I'm ...
-- On a study term and looking for Fall 2021 and Summer 2022 internships
-- Working on some interesting side projects!
+- Working as a Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard")
+- Looking for Summer 2022 internships
 
 ### 🐰 I previously worked as ...
-- Software Developer at [Newtopia](https://www.newtopia.com/ "Newtopia"), working on backend APIs and React Native mobile app
+- Software Developer at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and React Native mobile app
 - Salesforce Engineer at [Manulife](https://www.manulife.ca/personal.html "Manulife"), working on internal tools
 
 ### 📫 How to reach me:
