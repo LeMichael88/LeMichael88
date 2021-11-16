@@ -4,8 +4,8 @@
 I'm a software developer currently studying **Computer Science at the University of Waterloo.** I'm interested in fullstack development and learning as much as I can. In my free time, I enjoy working on cool projects and solving programming problems.
 
 ### 🔨 Currently, I'm ...
-- Working as a Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard")
-- Looking for Summer 2022 internships
+- Working as a Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails
+- Looking for Fall 2022 or Winter 2023 internship opportunities
 
 ### 🐰 I previously worked as ...
 - Software Developer at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and React Native mobile app
