@@ -4,10 +4,11 @@
 I'm a software developer currently studying **Computer Science at the University of Waterloo.** I'm interested in fullstack development and learning as much as I can. In my free time, I enjoy working on cool projects and solving programming problems.
 
 ### 🔨 Currently, I'm ...
-- Working as a Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails
-- Looking for Fall 2022 or Winter 2023 internship opportunities
+- Working as a a Software Engineer intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang
+- Looking for Winter 2023 and Summer 2023 internship opportunities
 
 ### 🐰 I previously worked as ...
+- Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails while building backend APIs
 - Software Developer at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and React Native mobile app
 - Salesforce Engineer at [Manulife](https://www.manulife.ca/personal.html "Manulife"), working on internal tools
 
