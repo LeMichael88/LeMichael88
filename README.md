@@ -4,13 +4,14 @@
 I'm a software developer currently studying **Computer Science at the University of Waterloo.** I'm interested in fullstack development and learning as much as I can. In my free time, I enjoy working on cool projects and solving programming problems.
 
 ### 🔨 Currently, I'm ...
-- Working as a a Software Engineer intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang
+- In my fourth year of CS at the University of Waterloo, taking courses about AI, Numerical Computation, App Development, and Computer Networks
 - Looking for Winter 2023 and Summer 2023 internship opportunities
 
 ### 🐰 I previously worked as ...
+- Software Engineer intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang and Redis
 - Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails while building backend APIs
-- Software Developer at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and React Native mobile app
-- Salesforce Engineer at [Manulife](https://www.manulife.ca/personal.html "Manulife"), working on internal tools
+- Software Developer Intern at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and React Native mobile app
+- Salesforce Engineer Intern at [Manulife](https://www.manulife.ca/personal.html "Manulife"), working on internal tools
 
 ### 📫 How to reach me:
 [Email](mailto:m42le@uwaterloo.ca "Email") | [Website](https://lemichael.xyz "Personal Website") | [LinkedIn](https://www.linkedin.com/in/lemichael88/ "LinkedIn") | [Devpost](https://devpost.com/LeMichael88 "Devpost")
