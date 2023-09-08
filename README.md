@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Michael Le. 👋
 
 ### 📚 Who am I?
-I'm a software engineer studying **Computer Science at the University of Waterloo.** Currently, I'm mostly interested in game development and computer graphics. Aside from solving programming problems and working on cool projects, I like to play soccer, hit new PRs at the gym, and play all sorts of video games.
+Hey there! I'm a software engineer studying **Computer Science at the University of Waterloo.** Currently, I'm mostly interested in **game development, computer graphics, and C++**. I'm always trying to learn something new by reading CS books or research papers. When I'm not coding, I like to play soccer, hit new PRs at the gym, and play all kinds of video games!
 
 ### 🔨 Currently, I'm ...
 - In my final year of CS at the University of Waterloo, taking courses about AI/ML and Computer Graphics
