@@ -1,16 +1,19 @@
 ## 👋 Hi there! I'm Michael Le. 👋
 
 ### 📚 Who am I?
-I'm a software developer currently studying **Computer Science at the University of Waterloo.** I'm interested in fullstack development and learning as much as I can. In my free time, I enjoy working on cool projects and solving programming problems.
+I'm a software engineer studying **Computer Science at the University of Waterloo.** Currently, I'm mostly interested in game development and computer graphics. Aside from solving programming problems and working on cool projects, I like to play soccer, hit new PRs at the gym, and play all sorts of video games.
 
 ### 🔨 Currently, I'm ...
-- In my fourth year of CS at the University of Waterloo, taking courses about AI, Numerical Computation, App Development, and Computer Networks
-- Looking for Winter 2023 and Summer 2023 internship opportunities
+- In my final year of CS at the University of Waterloo, taking courses about AI/ML and Computer Graphics
+- On exchange at the City University of Hong Kong
+- Looking for 2024 New Grad opportunities
 
-### 🐰 I previously worked as ...
-- Software Engineer intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang and Redis
-- Software Engineering Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails while building backend APIs
-- Software Developer Intern at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and React Native mobile app
+### 🐰 I previously worked as a ...
+- Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for an unreleased feature for League of Legends
+- Compiler Software Engineer Intern at [Huawei]([https://www.riotgames.com/en](https://www.huawei.com/en/)), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
+- Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang and Redis
+- Software Engineer Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails while building backend APIs
+- Software Developer Intern at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and a React Native mobile app
 - Salesforce Engineer Intern at [Manulife](https://www.manulife.ca/personal.html "Manulife"), working on internal tools
 
 ### 📫 How to reach me:
