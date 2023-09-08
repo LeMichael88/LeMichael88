@@ -10,7 +10,7 @@ Hey there! I'm a software engineer studying **Computer Science at the University
 
 ### 🐰 I previously worked as a ...
 - Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for an unreleased feature for League of Legends
-- Compiler Software Engineer Intern at [Huawei]([https://www.riotgames.com/en](https://www.huawei.com/en/)), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
+- Compiler Software Engineer Intern at [Huawei](https://www.huawei.com/en/), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
 - Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang and Redis
 - Software Engineer Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails while building backend APIs
 - Software Developer Intern at [Newtopia](https://www.newtopia.com "Newtopia"), working on backend APIs and a React Native mobile app
