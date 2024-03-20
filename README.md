@@ -5,10 +5,10 @@ Hey there! I'm a software engineer studying **Computer Science at the University
 
 ### 🔨 Currently, I'm ...
 - In my final year of CS at the University of Waterloo, taking courses about AI/ML and Computer Graphics
-- On exchange at the City University of Hong Kong
 - Looking for 2024 New Grad opportunities
 
 ### 🐰 I previously worked as a ...
+- Exchange Student at the City University of Hong Kong
 - Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for an unreleased feature for League of Legends
 - Compiler Software Engineer Intern at [Huawei](https://www.huawei.com/en/), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
 - Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang and Redis
