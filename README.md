@@ -4,10 +4,10 @@
 Hey there! I'm a software engineer studying **Computer Science at the University of Waterloo.** Currently, I'm mostly interested in **game development, computer graphics, and C++**. I'm always trying to learn something new by reading CS books or research papers. When I'm not coding, I like to play soccer, hit new PRs at the gym, and play all kinds of video games!
 
 ### 🔨 Currently, I'm ...
-- In my final year of CS at the University of Waterloo, taking courses about AI/ML and Computer Graphics
 - Looking for 2024 New Grad opportunities
+- Interested in Computer Graphics and C++
 
-### 🐰 I previously worked as a ...
+### 🐰 I previously worked as a(n) ...
 - Exchange Student at the City University of Hong Kong
 - Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for an unreleased feature for League of Legends
 - Compiler Software Engineer Intern at [Huawei](https://www.huawei.com/en/), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
