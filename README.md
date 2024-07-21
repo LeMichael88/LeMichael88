@@ -7,9 +7,9 @@ Hey there! I'm a software engineer studying **Computer Science at the University
 - Looking for 2024 New Grad opportunities
 - Interested in Computer Graphics and C++
 
-### 🐰 I previously worked as a(n) ...
+### 🐰 Previously, I was a(n) ...
 - Exchange Student at the City University of Hong Kong
-- Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for an unreleased feature for League of Legends
+- Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for the League of Legends game mode, Swarm
 - Compiler Software Engineer Intern at [Huawei](https://www.huawei.com/en/), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
 - Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), developing a rate limiting service in Golang and Redis
 - Software Engineer Intern at [ApplyBoard](https://www.applyboard.com/ "ApplyBoard"), learning React and Ruby on Rails while building backend APIs
