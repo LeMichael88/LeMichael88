@@ -1,13 +1,14 @@
 ## 👋 Hi there! I'm Michael Le. 👋
 
 ### 📚 Who am I?
-Hey there! I'm a software engineer studying **Computer Science at the University of Waterloo.** Currently, I'm mostly interested in **game development, computer graphics, and C++**. I'm always trying to learn something new by reading CS books or research papers. When I'm not coding, I like to play soccer, hit new PRs at the gym, and play all kinds of video games!
+Hey there! I'm a software engineer with a background in  **Computer Science at the University of Waterloo.** Currently, I'm mostly interested in **game development, computer graphics, and C++**. I'm always trying to learn something new by reading CS books or research papers. When I'm not coding, I like to play soccer, hit new PRs at the gym, and play all kinds of video games!
 
 ### 🔨 Currently, I'm ...
-- Looking for 2024 New Grad opportunities
+- A **backend software engineer on the Membership (Uber One) Benefits team at [Uber](https://www.uber.com/ca/en/)**
 - Interested in Computer Graphics and C++
 
 ### 🐰 Previously, I was a(n) ...
+- Computer Science student at the University of Waterloo
 - Exchange Student at the City University of Hong Kong
 - Gameplay Software Engineer Intern at [Riot Games](https://www.riotgames.com/en), working on movement and pathfinding in C++ for the League of Legends game mode, Swarm
 - Compiler Software Engineer Intern at [Huawei](https://www.huawei.com/en/), researching AI/ML operators and writing SYCL kernels for Huawei's AI DaVinci chip
